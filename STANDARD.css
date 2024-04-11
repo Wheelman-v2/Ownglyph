@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Nelna_Yesam_Regular'; /* ³¾³ª ¿¹»ùÃ¼ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/STANDARD/Nelna_Yesam_Regular/Nelna_Yesam_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_23sjgmsSUMIN_Regular'; /* ¿Â±ÛÀÙ 23¼ÛÁ¤¿©Áß¼ö¹ÎÃ¼ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/STANDARD/Ownglyph_23sjgmsSUMIN_Regular/Ownglyph_23sjgmsSUMIN_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_30SomethingGal_Regular'; /* ¿Â±ÛÀÙ 30½æ¶ò°¶ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/STANDARD/Ownglyph_30SomethingGal_Regular/Ownglyph_30SomethingGal_Regular.woff2') format('woff2');
+}
+
