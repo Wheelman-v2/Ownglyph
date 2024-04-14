@@ -1,1260 +1,1624 @@
 @font-face {
-    font-family: 'OG_Renaissance_Secret_Regular'; /* OG ¸£³×»ó½º ºñ¹Ğ */
+    font-family: 'OG_Renaissance_Secret_Regular'; /* OG ë¥´ë„¤ìƒìŠ¤ ë¹„ë°€ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/OG_Renaissance_Secret_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_002_Regular'; /* ¿Â±ÛÀÙ 002 */
+    font-family: 'Ownglyph_002_Regular'; /* ì˜¨ê¸€ì 002 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_002_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_00sinbi00_Regular'; /* ¿Â±ÛÀÙ 00½ÅºñÃ¼00 */
+    font-family: 'Ownglyph_00sinbi00_Regular'; /* ì˜¨ê¸€ì 00ì‹ ë¹„ì²´00 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_00sinbi00_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_0726_yeojin_Regular'; /* ¿Â±ÛÀÙ 0726 ¿©ÁøÃ¼ */
+    font-family: 'Ownglyph_0726_yeojin_Regular'; /* ì˜¨ê¸€ì 0726 ì—¬ì§„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_0726_yeojin_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_0828_Regular'; /* ¿Â±ÛÀÙ 0828 */
+    font-family: 'Ownglyph_0828_Regular'; /* ì˜¨ê¸€ì 0828 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_0828_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_0923_Regular'; /* ¿Â±ÛÀÙ 0923 */
+    font-family: 'Ownglyph_0923_Regular'; /* ì˜¨ê¸€ì 0923 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_0923_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_0mi_Regular'; /* ¿Â±ÛÀÙ 0¹Ì */
+    font-family: 'Ownglyph_0mi_Regular'; /* ì˜¨ê¸€ì 0ë¯¸ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_0mi_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_onezero_Regular'; /* ¿Â±ÛÀÙ 10 */
+    font-family: 'Ownglyph_onezero_Regular'; /* ì˜¨ê¸€ì 10 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_onezero_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_100sweetrain_Regular'; /* ¿Â±ÛÀÙ 100´Üºñ */
+    font-family: 'Ownglyph_100sweetrain_Regular'; /* ì˜¨ê¸€ì 100ë‹¨ë¹„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_100sweetrain_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_102102hyun_Regular'; /* ¿Â±ÛÀÙ 102102Çö */
+    font-family: 'Ownglyph_102102hyun_Regular'; /* ì˜¨ê¸€ì 102102í˜„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_102102hyun_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_SoozumeOfNov_Regular'; /* ¿Â±ÛÀÙ 11¿ùÀÇ½ºÁî¸Ş */
+    font-family: 'Ownglyph_SoozumeOfNov_Regular'; /* ì˜¨ê¸€ì 11ì›”ì˜ìŠ¤ì¦ˆë©” */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_SoozumeOfNov_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_bin2002_Regular'; /* ¿Â±ÛÀÙ 2002ºó */
+    font-family: 'Ownglyph_bin2002_Regular'; /* ì˜¨ê¸€ì 2002ë¹ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_bin2002_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_2022_minhee_Regular'; /* ¿Â±ÛÀÙ 2022 ¹ÎÈñÃ¼ */
+    font-family: 'Ownglyph_2022_minhee_Regular'; /* ì˜¨ê¸€ì 2022 ë¯¼í¬ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_2022_minhee_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_2022shine_Regular'; /* ¿Â±ÛÀÙ 2022»şÀÎÃ¼ */
+    font-family: 'Ownglyph_2022shine_Regular'; /* ì˜¨ê¸€ì 2022ìƒ¤ì¸ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_2022shine_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_2023_HNS_Regular'; /* ¿Â±ÛÀÙ 2023 Çô´Ï¾² */
+    font-family: 'Ownglyph_2023_HNS_Regular'; /* ì˜¨ê¸€ì 2023 í˜€ë‹ˆì“° */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_2023_HNS_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_2121_Regular'; /* ¿Â±ÛÀÙ 2121 */
+    font-family: 'Ownglyph_2121_Regular'; /* ì˜¨ê¸€ì 2121 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_2121_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_moo_min_Regular'; /* ¿Â±ÛÀÙ 21¼¼ ÈÖ¼öÃ¼ */
+    font-family: 'Ownglyph_moo_min_Regular'; /* ì˜¨ê¸€ì 21ì„¸ íœ˜ìˆ˜ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_moo_min_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_YGY_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ °¡¿¬ */
+    font-family: 'Owgnylph_22SJ_YGY_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ê°€ì—° */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_YGY_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_LGH_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ °­Èñ */
+    font-family: 'Owgnylph_22SJ_LGH_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ê°•í¬ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_LGH_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_PGB_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ±Ôºó */
+    font-family: 'Owgnylph_22SJ_PGB_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ê·œë¹ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_PGB_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_ODE_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ´ÙÀº */
+    font-family: 'Owgnylph_22SJ_ODE_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ë‹¤ì€ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_ODE_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_KDJ_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ´ÙÁ¤ */
+    font-family: 'Owgnylph_22SJ_KDJ_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ë‹¤ì • */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_KDJ_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_KDY_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ µµ¿ë */
+    font-family: 'Owgnylph_22SJ_KDY_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ë„ìš© */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_KDY_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_BMK_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ¹Î°æ */
+    font-family: 'Owgnylph_22SJ_BMK_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ë¯¼ê²½ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_BMK_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_KMJ_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ¹ÎÁÖ */
+    font-family: 'Owgnylph_22SJ_KMJ_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ë¯¼ì£¼ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_KMJ_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_PB_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ¹Ú¹ü */
+    font-family: 'Owgnylph_22SJ_PB_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ë°•ë²” */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_PB_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_JSM_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ¼ö¹Î */
+    font-family: 'Owgnylph_22SJ_JSM_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ìˆ˜ë¯¼ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_JSM_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_HSJ_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ¼öÁ¤ */
+    font-family: 'Owgnylph_22SJ_HSJ_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ìˆ˜ì • */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_HSJ_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_CYU_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ¿¬¿ì */
+    font-family: 'Owgnylph_22SJ_CYU_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ì—°ìš° */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_CYU_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_JYB_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ¿¹ºó */
+    font-family: 'Owgnylph_22SJ_JYB_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ì˜ˆë¹ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_JYB_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_GWP_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ¿øÇÊ */
+    font-family: 'Owgnylph_22SJ_GWP_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ì›í•„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_GWP_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_KYE_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ À¯Àº */
+    font-family: 'Owgnylph_22SJ_KYE_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ìœ ì€ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_KYE_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_PYJ_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ À±Áö */
+    font-family: 'Owgnylph_22SJ_PYJ_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ìœ¤ì§€ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_PYJ_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_SYW_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ À²¿ø */
+    font-family: 'Owgnylph_22SJ_SYW_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ìœ¨ì› */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_SYW_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_JEJ_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ÀºÁö */
+    font-family: 'Owgnylph_22SJ_JEJ_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ì€ì§€ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_JEJ_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_YJS_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ÁØ¼º */
+    font-family: 'Owgnylph_22SJ_YJS_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ì¤€ì„± */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_YJS_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_KJH_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ÁöÈ£ */
+    font-family: 'Owgnylph_22SJ_KJH_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ì§€í˜¸ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_KJH_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_KJA_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ Áø¾Æ */
+    font-family: 'Owgnylph_22SJ_KJA_Regular'; /* ì˜¨ê¸€ì 22ì„ì • ì§„ì•„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_KJA_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_KTH_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ÅÂÈÆ */
+    font-family: 'Owgnylph_22SJ_KTH_Regular'; /* ì˜¨ê¸€ì 22ì„ì • íƒœí›ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_KTH_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_SHN_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ÇÏ´Ã */
+    font-family: 'Owgnylph_22SJ_SHN_Regular'; /* ì˜¨ê¸€ì 22ì„ì • í•˜ëŠ˜ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_SHN_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_22SJ_OHY_Regular'; /* ¿Â±ÛÀÙ 22¼®Á¤ ÇÏÀ² */
+    font-family: 'Owgnylph_22SJ_OHY_Regular'; /* ì˜¨ê¸€ì 22ì„ì • í•˜ìœ¨ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_22SJ_OHY_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_22SongYH_Regular'; /* ¿Â±ÛÀÙ 22¼Û¿µÈÆÃ¼ */
+    font-family: 'Ownglyph_22SongYH_Regular'; /* ì˜¨ê¸€ì 22ì†¡ì˜í›ˆì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_22SongYH_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_23_DAYOUNG_Regular'; /* ¿Â±ÛÀÙ 23 ´Ù¿µÃ¼ */
+    font-family: 'Ownglyph_23_DAYOUNG_Regular'; /* ì˜¨ê¸€ì 23 ë‹¤ì˜ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_23_DAYOUNG_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_pH_D_Suhyeon_Regular'; /* ¿Â±ÛÀÙ 27¼¼ ¹Ú»ç ¼öÇö */
+    font-family: 'Ownglyph_pH_D_Suhyeon_Regular'; /* ì˜¨ê¸€ì 27ì„¸ ë°•ì‚¬ ìˆ˜í˜„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_pH_D_Suhyeon_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_305_Regular'; /* ¿Â±ÛÀÙ 305 */
+    font-family: 'Ownglyph_305_Regular'; /* ì˜¨ê¸€ì 305 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_305_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_31Grace_Regular'; /* ¿Â±ÛÀÙ 31±×·¹ÀÌ½º */
+    font-family: 'Ownglyph_31Grace_Regular'; /* ì˜¨ê¸€ì 31ê·¸ë ˆì´ìŠ¤ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_31Grace_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_33ver1_Regular'; /* ¿Â±ÛÀÙ 33Ã¼ */
+    font-family: 'Ownglyph_33ver1_Regular'; /* ì˜¨ê¸€ì 33ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_33ver1_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_401_Regular'; /* ¿Â±ÛÀÙ 401 */
+    font-family: 'Ownglyph_401_Regular'; /* ì˜¨ê¸€ì 401 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_401_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_501_Regular'; /* ¿Â±ÛÀÙ 501È£ */
+    font-family: 'Ownglyph_501_Regular'; /* ì˜¨ê¸€ì 501í˜¸ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_501_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_623_Regular'; /* ¿Â±ÛÀÙ 623 */
+    font-family: 'Ownglyph_623_Regular'; /* ì˜¨ê¸€ì 623 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_623_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Leanna_Regular'; /* ¿Â±ÛÀÙ 7»ì¼ÒÀ¯Ã¼ */
+    font-family: 'Ownglyph_Leanna_Regular'; /* ì˜¨ê¸€ì 7ì‚´ì†Œìœ ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Leanna_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_InYoon_Regular'; /* ¿Â±ÛÀÙ 8136 */
+    font-family: 'Ownglyph_InYoon_Regular'; /* ì˜¨ê¸€ì 8136 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_InYoon_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_82_Regular'; /* ¿Â±ÛÀÙ 82 */
+    font-family: 'Ownglyph_82_Regular'; /* ì˜¨ê¸€ì 82 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_82_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_8hani_Regular'; /* ¿Â±ÛÀÙ 8»ìÇÏ´Ï */
+    font-family: 'Ownglyph_8hani_Regular'; /* ì˜¨ê¸€ì 8ì‚´í•˜ë‹ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_8hani_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_920920_Regular'; /* ¿Â±ÛÀÙ 920920 */
+    font-family: 'Ownglyph_920920_Regular'; /* ì˜¨ê¸€ì 920920 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_920920_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_97sujeong_Regular'; /* ¿Â±ÛÀÙ 97¼öÁ¤ */
+    font-family: 'Ownglyph_97sujeong_Regular'; /* ì˜¨ê¸€ì 97ìˆ˜ì • */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_97sujeong_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_dawntodusk_Regular'; /* ¿Â±ÛÀÙ °¡´À´Ù¶õ¹°¹æ¿ïÃ¼ */
+    font-family: 'Ownglyph_dawntodusk_Regular'; /* ì˜¨ê¸€ì ê°€ëŠë‹¤ë€ë¬¼ë°©ìš¸ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_dawntodusk_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gdng_daylife_Regular'; /* ¿Â±ÛÀÙ °¡´óÀÌÀÇ ÇÏ·ç */
+    font-family: 'Ownglyph_gdng_daylife_Regular'; /* ì˜¨ê¸€ì ê°€ëŒ•ì´ì˜ í•˜ë£¨ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gdng_daylife_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gadyam_Regular'; /* ¿Â±ÛÀÙ °¡ˆÏÃ¼ */
+    font-family: 'Ownglyph_gadyam_Regular'; /* ì˜¨ê¸€ì ê°€?è¡¢ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gadyam_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gominamon_Regular'; /* ¿Â±ÛÀÙ °¡¶ù¹Ì³ª¸ó */
+    font-family: 'Ownglyph_Gominamon_Regular'; /* ì˜¨ê¸€ì ê°€ëë¯¸ë‚˜ëª¬ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gominamon_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_windy_Regular'; /* ¿Â±ÛÀÙ °¡º­¿ó°Ô */
+    font-family: 'Ownglyph_windy_Regular'; /* ì˜¨ê¸€ì ê°€ë²¼ì›ê²Œ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_windy_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gayoungdongeul_Regular'; /* ¿Â±ÛÀÙ °¡¿µÀÌµ¿±ÛÀÌÃ¼ */
+    font-family: 'Ownglyph_Gayoungdongeul_Regular'; /* ì˜¨ê¸€ì ê°€ì˜ì´ë™ê¸€ì´ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gayoungdongeul_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gaoni_Regular'; /* ¿Â±ÛÀÙ °¡¿À´Ï */
+    font-family: 'Ownglyph_Gaoni_Regular'; /* ì˜¨ê¸€ì ê°€ì˜¤ë‹ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gaoni_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gaon_Regular'; /* ¿Â±ÛÀÙ °¡¿Â */
+    font-family: 'Ownglyph_Gaon_Regular'; /* ì˜¨ê¸€ì ê°€ì˜¨ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gaon_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_autumngoeun_Regular'; /* ¿Â±ÛÀÙ °¡À»°íÀº */
+    font-family: 'Ownglyph_autumngoeun_Regular'; /* ì˜¨ê¸€ì ê°€ì„ê³ ì€ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_autumngoeun_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gaeul_fruit_Regular'; /* ¿Â±ÛÀÙ °¡À»¿­¸ÅÃ¼ */
+    font-family: 'Ownglyph_Gaeul_fruit_Regular'; /* ì˜¨ê¸€ì ê°€ì„ì—´ë§¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gaeul_fruit_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gain_Regular'; /* ¿Â±ÛÀÙ °¡ÀÎÃ¼ */
+    font-family: 'Ownglyph_gain_Regular'; /* ì˜¨ê¸€ì ê°€ì¸ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gain_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GHwriteright_Regular'; /* ¿Â±ÛÀÙ °¡Çö¶óÀÌÆ®Ã¼ */
+    font-family: 'Ownglyph_GHwriteright_Regular'; /* ì˜¨ê¸€ì ê°€í˜„ë¼ì´íŠ¸ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GHwriteright_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kahyeon_Regular'; /* ¿Â±ÛÀÙ °¡ÇöÃ¼ */
+    font-family: 'Ownglyph_Kahyeon_Regular'; /* ì˜¨ê¸€ì ê°€í˜„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kahyeon_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gamekikiluk_Regular'; /* ¿Â±ÛÀÙ °¥¸Å±â´Â³¢·èÃ¼ */
+    font-family: 'Ownglyph_Gamekikiluk_Regular'; /* ì˜¨ê¸€ì ê°ˆë§¤ê¸°ëŠ”ë¼ë£©ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gamekikiluk_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_brownpenguin_Regular'; /* ¿Â±ÛÀÙ °¥»öÆë±Ï */
+    font-family: 'Ownglyph_brownpenguin_Regular'; /* ì˜¨ê¸€ì ê°ˆìƒ‰í­ê·„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_brownpenguin_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_grateful_Regular'; /* ¿Â±ÛÀÙ °¨»çÇÑÃ¼ */
+    font-family: 'Ownglyph_grateful_Regular'; /* ì˜¨ê¸€ì ê°ì‚¬í•œì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_grateful_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gamjyache_Regular'; /* ¿Â±ÛÀÙ °¨ÀğÃ¼ */
+    font-family: 'Ownglyph_gamjyache_Regular'; /* ì˜¨ê¸€ì ê°ìŸˆì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gamjyache_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_soomeenee_Regular'; /* ¿Â±ÛÀÙ °«»ı»ç´Â¼ö¹Î */
+    font-family: 'Ownglyph_soomeenee_Regular'; /* ì˜¨ê¸€ì ê°“ìƒì‚¬ëŠ”ìˆ˜ë¯¼ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_soomeenee_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Mathematics_Regular'; /* ¿Â±ÛÀÙ °«¿ì½ºÃ¼ */
+    font-family: 'Ownglyph_Mathematics_Regular'; /* ì˜¨ê¸€ì ê°“ìš°ìŠ¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Mathematics_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kang_Geon_Regular'; /* ¿Â±ÛÀÙ °­°Ç */
+    font-family: 'Ownglyph_Kang_Geon_Regular'; /* ì˜¨ê¸€ì ê°•ê±´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kang_Geon_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Lene_Regular'; /* ¿Â±ÛÀÙ °­·¹³×Ã¼ */
+    font-family: 'Ownglyph_Lene_Regular'; /* ì˜¨ê¸€ì ê°•ë ˆë„¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Lene_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_alz_young_Regular'; /* ¿Â±ÛÀÙ °­¹ÎÃ¼ */
+    font-family: 'Ownglyph_alz_young_Regular'; /* ì˜¨ê¸€ì ê°•ë¯¼ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_alz_young_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Riverside_Bambo_Regular'; /* ¿Â±ÛÀÙ °­º¯´ë³ª¹« */
+    font-family: 'Ownglyph_Riverside_Bambo_Regular'; /* ì˜¨ê¸€ì ê°•ë³€ëŒ€ë‚˜ë¬´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Riverside_Bambo_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kangpont_Regular'; /* ¿Â±ÛÀÙ °­»çÀå±Û¾¾Ã¼ */
+    font-family: 'Ownglyph_kangpont_Regular'; /* ì˜¨ê¸€ì ê°•ì‚¬ì¥ê¸€ì”¨ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kangpont_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kangseoa_Regular'; /* ¿Â±ÛÀÙ °­¼­¾Æ */
+    font-family: 'Ownglyph_kangseoa_Regular'; /* ì˜¨ê¸€ì ê°•ì„œì•„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kangseoa_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KsunB_Regular'; /* ¿Â±ÛÀÙ °­¼±ºñ */
+    font-family: 'Ownglyph_KsunB_Regular'; /* ì˜¨ê¸€ì ê°•ì„ ë¹„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KsunB_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Cristal_Regular'; /* ¿Â±ÛÀÙ °­¼öÁ¤Ã¼ */
+    font-family: 'Ownglyph_Cristal_Regular'; /* ì˜¨ê¸€ì ê°•ìˆ˜ì •ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Cristal_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_frogfeet_Regular'; /* ¿Â±ÛÀÙ °³±¸¸®¹ß°¡¶ôÃ¼ */
+    font-family: 'Ownglyph_frogfeet_Regular'; /* ì˜¨ê¸€ì ê°œêµ¬ë¦¬ë°œê°€ë½ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_frogfeet_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_antshandwrite_Regular'; /* ¿Â±ÛÀÙ °³¹Ì¼Õ±Û¾¾ */
+    font-family: 'Ownglyph_antshandwrite_Regular'; /* ì˜¨ê¸€ì ê°œë¯¸ì†ê¸€ì”¨ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_antshandwrite_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gangimangi_Regular'; /* ¿Â±ÛÀÙ °»ÈñÃ¼ */
+    font-family: 'Ownglyph_gangimangi_Regular'; /* ì˜¨ê¸€ì ê°±í¬ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gangimangi_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_geonah_Regular'; /* ¿Â±ÛÀÙ °Ç¾ÆÃ¼ */
+    font-family: 'Ownglyph_geonah_Regular'; /* ì˜¨ê¸€ì ê±´ì•„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_geonah_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Blackkitten_Regular'; /* ¿Â±ÛÀÙ °Ë³ÉÀÌÃ¼ */
+    font-family: 'Ownglyph_Blackkitten_Regular'; /* ì˜¨ê¸€ì ê²€ëƒ¥ì´ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Blackkitten_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Blacksky_Regular'; /* ¿Â±ÛÀÙ °ËÀºÇÏ´Ã */
+    font-family: 'Ownglyph_Blacksky_Regular'; /* ì˜¨ê¸€ì ê²€ì€í•˜ëŠ˜ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Blacksky_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Game_Font_Regular'; /* ¿Â±ÛÀÙ °ÔÀÓÃ¼ */
+    font-family: 'Ownglyph_Game_Font_Regular'; /* ì˜¨ê¸€ì ê²Œì„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Game_Font_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kyungdoong2_Regular'; /* ¿Â±ÛÀÙ °æµÕÀÌÃ¼ */
+    font-family: 'Ownglyph_kyungdoong2_Regular'; /* ì˜¨ê¸€ì ê²½ë‘¥ì´ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kyungdoong2_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kyoun9m_Regular'; /* ¿Â±ÛÀÙ °æ¹Î */
+    font-family: 'Ownglyph_Kyoun9m_Regular'; /* ì˜¨ê¸€ì ê²½ë¯¼ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kyoun9m_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_nvralnoe_Regular'; /* ¿Â±ÛÀÙ °æ¹ÎÀÌÀÇ ÀÏ±â */
+    font-family: 'Ownglyph_nvralnoe_Regular'; /* ì˜¨ê¸€ì ê²½ë¯¼ì´ì˜ ì¼ê¸° */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nvralnoe_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kyoung_samo_Regular'; /* ¿Â±ÛÀÙ °æ»ç¸ğ */
+    font-family: 'Ownglyph_Kyoung_samo_Regular'; /* ì˜¨ê¸€ì ê²½ì‚¬ëª¨ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kyoung_samo_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KWPARK_Regular'; /* ¿Â±ÛÀÙ °æ¿øÃ¼ */
+    font-family: 'Ownglyph_KWPARK_Regular'; /* ì˜¨ê¸€ì ê²½ì›ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KWPARK_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kyoung_font_Regular'; /* ¿Â±ÛÀÙ °æÀÌ·Î¿îÆùÆ® */
+    font-family: 'Ownglyph_kyoung_font_Regular'; /* ì˜¨ê¸€ì ê²½ì´ë¡œìš´í°íŠ¸ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kyoung_font_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GYEONGIM_Regular'; /* ¿Â±ÛÀÙ °æÀÓ */
+    font-family: 'Ownglyph_GYEONGIM_Regular'; /* ì˜¨ê¸€ì ê²½ì„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GYEONGIM_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gyeongjun2022_Regular'; /* ¿Â±ÛÀÙ °æÁØ22Ã¼ */
+    font-family: 'Ownglyph_gyeongjun2022_Regular'; /* ì˜¨ê¸€ì ê²½ì¤€22ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gyeongjun2022_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KyungHun_Regular'; /* ¿Â±ÛÀÙ °æÇåÃ¼ */
+    font-family: 'Ownglyph_KyungHun_Regular'; /* ì˜¨ê¸€ì ê²½í—Œì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KyungHun_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gogoart_Regular'; /* ¿Â±ÛÀÙ °í°í¾ÆÃ¼ */
+    font-family: 'Ownglyph_gogoart_Regular'; /* ì˜¨ê¸€ì ê³ ê³ ì•„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gogoart_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_JUNGSUKstyle_Regular'; /* ¿Â±ÛÀÙ °í°íÁ¤¼÷Ã¼ */
+    font-family: 'Ownglyph_JUNGSUKstyle_Regular'; /* ì˜¨ê¸€ì ê³ ê³ ì •ìˆ™ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_JUNGSUKstyle_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Dongyeon_Ko_Regular'; /* ¿Â±ÛÀÙ °íµ¿¿¬¼Õ±Û¾¾ */
+    font-family: 'Ownglyph_Dongyeon_Ko_Regular'; /* ì˜¨ê¸€ì ê³ ë™ì—°ì†ê¸€ì”¨ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Dongyeon_Ko_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Whalewhispers_Regular'; /* ¿Â±ÛÀÙ °í·¡µ¸¿ò */
+    font-family: 'Ownglyph_Whalewhispers_Regular'; /* ì˜¨ê¸€ì ê³ ë˜ë‹ì›€ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Whalewhispers_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_goboddong_Regular'; /* ¿Â±ÛÀÙ °íº¸¶ËÃ¼ */
+    font-family: 'Ownglyph_goboddong_Regular'; /* ì˜¨ê¸€ì ê³ ë³´ë˜¥ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_goboddong_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GohSJ_Regular'; /* ¿Â±ÛÀÙ °í¼öÁøÈê¸²Ã¼ */
+    font-family: 'Ownglyph_GohSJ_Regular'; /* ì˜¨ê¸€ì ê³ ìˆ˜ì§„í˜ë¦¼ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GohSJ_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_dochi_baby_Regular'; /* ¿Â±ÛÀÙ °í½¿µµÄ¡»õ³¢ */
+    font-family: 'Ownglyph_dochi_baby_Regular'; /* ì˜¨ê¸€ì ê³ ìŠ´ë„ì¹˜ìƒˆë¼ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_dochi_baby_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_JAEGEON_KO_Regular'; /* ¿Â±ÛÀÙ °íÀç°Ç */
+    font-family: 'Ownglyph_JAEGEON_KO_Regular'; /* ì˜¨ê¸€ì ê³ ì¬ê±´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_JAEGEON_KO_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gotdigot_font_Regular'; /* ¿Â±ÛÀÙ °ğµğ°ğÃ¼ */
+    font-family: 'Ownglyph_Gotdigot_font_Regular'; /* ì˜¨ê¸€ì ê³§ë””ê³§ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gotdigot_font_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GomGom_Regular'; /* ¿Â±ÛÀÙ °õ°õÃ¼ */
+    font-family: 'Ownglyph_GomGom_Regular'; /* ì˜¨ê¸€ì ê³°ê³°ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GomGom_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Teddy_Bear_Regular'; /* ¿Â±ÛÀÙ °õµµ¸®¼­¿¬Ã¼ */
+    font-family: 'Ownglyph_Teddy_Bear_Regular'; /* ì˜¨ê¸€ì ê³°ë„ë¦¬ì„œì—°ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Teddy_Bear_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_9mungshop_Regular'; /* ¿Â±ÛÀÙ °õ¼±»ı±¸¸Û°¡°Ô */
+    font-family: 'Ownglyph_9mungshop_Regular'; /* ì˜¨ê¸€ì ê³°ì„ ìƒêµ¬ë©ê°€ê²Œ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_9mungshop_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GomJaiminNallim_Regular'; /* ¿Â±ÛÀÙ °õÀç¹Î³¯¸² */
+    font-family: 'Ownglyph_GomJaiminNallim_Regular'; /* ì˜¨ê¸€ì ê³°ì¬ë¯¼ë‚ ë¦¼ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GomJaiminNallim_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gomteng_font_Regular'; /* ¿Â±ÛÀÙ °õÅÊÃ¼ */
+    font-family: 'Ownglyph_Gomteng_font_Regular'; /* ì˜¨ê¸€ì ê³°íƒ±ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gomteng_font_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GONGDAERI_Regular'; /* ¿Â±ÛÀÙ °ø´ë¸® */
+    font-family: 'Ownglyph_GONGDAERI_Regular'; /* ì˜¨ê¸€ì ê³µëŒ€ë¦¬ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GONGDAERI_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_seonwook_Regular'; /* ¿Â±ÛÀÙ °ø¼±¿íÃ¼ */
+    font-family: 'Ownglyph_seonwook_Regular'; /* ì˜¨ê¸€ì ê³µì„ ìš±ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_seonwook_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gondry_Regular'; /* ¿Â±ÛÀÙ °ø¾Ş¿ëÃ¼ */
+    font-family: 'Ownglyph_gondry_Regular'; /* ì˜¨ê¸€ì ê³µì•µìš©ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gondry_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gong2_Regular'; /* ¿Â±ÛÀÙ °øÀÌ */
+    font-family: 'Ownglyph_gong2_Regular'; /* ì˜¨ê¸€ì ê³µì´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gong2_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gong226_Regular'; /* ¿Â±ÛÀÙ °øÀÌÀÌÀ° */
+    font-family: 'Ownglyph_Gong226_Regular'; /* ì˜¨ê¸€ì ê³µì´ì´ìœ¡ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gong226_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Princessu_Regular'; /* ¿Â±ÛÀÙ °øÁê³¯¸² */
+    font-family: 'Ownglyph_Princessu_Regular'; /* ì˜¨ê¸€ì ê³µì¥¬ë‚ ë¦¼ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Princessu_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KWAKORI_Regular'; /* ¿Â±ÛÀÙ °û¿À¸®Ã¼ */
+    font-family: 'Ownglyph_KWAKORI_Regular'; /* ì˜¨ê¸€ì ê³½ì˜¤ë¦¬ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KWAKORI_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Jinah_N_Kwang_Regular'; /* ¿Â±ÛÀÙ ±¤Èñ´ÂÁø¾ÆÃ¼ 514 */
+    font-family: 'Ownglyph_Jinah_N_Kwang_Regular'; /* ì˜¨ê¸€ì ê´‘í¬ëŠ”ì§„ì•„ì²´ 514 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Jinah_N_Kwang_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Goibalsaebal_Regular'; /* ¿Â±ÛÀÙ ±«¹ß»õ¹ßÃ¼ */
+    font-family: 'Ownglyph_Goibalsaebal_Regular'; /* ì˜¨ê¸€ì ê´´ë°œìƒˆë°œì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Goibalsaebal_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KNan_Regular'; /* ¿Â±ÛÀÙ ‚‹³ª¹« */
+    font-family: 'Ownglyph_KNan_Regular'; /* ì˜¨ê¸€ì ??ë‚˜ë¬´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KNan_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kyong_day_Regular'; /* ¿Â±ÛÀÙ ‚‹ÀÌÀÇ ÇÏ·ç */
+    font-family: 'Ownglyph_Kyong_day_Regular'; /* ì˜¨ê¸€ì ??ì´ì˜ í•˜ë£¨ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kyong_day_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_dldbdeld_Regular'; /* ¿Â±ÛÀÙ ‚‹Áö */
+    font-family: 'Ownglyph_dldbdeld_Regular'; /* ì˜¨ê¸€ì ??ì§€ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_dldbdeld_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_koonyang_Regular'; /* ¿Â±ÛÀÙ ±¸³ÉÀÌ */
+    font-family: 'Ownglyph_koonyang_Regular'; /* ì˜¨ê¸€ì êµ¬ëƒ¥ì´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_koonyang_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Cloudmong_Regular'; /* ¿Â±ÛÀÙ ±¸¸§¸ù±ÛÀÌ */
+    font-family: 'Ownglyph_Cloudmong_Regular'; /* ì˜¨ê¸€ì êµ¬ë¦„ëª½ê¸€ì´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Cloudmong_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_beclouded_Regular'; /* ¿Â±ÛÀÙ ±¸¸§¼­¸°Ã¼ */
+    font-family: 'Ownglyph_beclouded_Regular'; /* ì˜¨ê¸€ì êµ¬ë¦„ì„œë¦°ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_beclouded_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_CLOUDCOTTON_Regular'; /* ¿Â±ÛÀÙ ±¸¸§¼Ø */
+    font-family: 'Ownglyph_CLOUDCOTTON_Regular'; /* ì˜¨ê¸€ì êµ¬ë¦„ì†œ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_CLOUDCOTTON_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gusongnam01_Regular'; /* ¿Â±ÛÀÙ ±¸¼Û³²1È£ */
+    font-family: 'Ownglyph_Gusongnam01_Regular'; /* ì˜¨ê¸€ì êµ¬ì†¡ë‚¨1í˜¸ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gusongnam01_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_enfj9wol_Regular'; /* ¿Â±ÛÀÙ ±¸¿ù¾² */
+    font-family: 'Ownglyph_enfj9wol_Regular'; /* ì˜¨ê¸€ì êµ¬ì›”ì“° */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_enfj9wol_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_92cciDanjung_Regular'; /* ¿Â±ÛÀÙ ±¸ÀÌ¾¾´ÜÁ¤Ã¼ */
+    font-family: 'Ownglyph_92cciDanjung_Regular'; /* ì˜¨ê¸€ì êµ¬ì´ì”¨ë‹¨ì •ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_92cciDanjung_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_92cciJinji_Regular'; /* ¿Â±ÛÀÙ ±¸ÀÌ¾¾ÁøÁöÃ¼ */
+    font-family: 'Ownglyph_92cciJinji_Regular'; /* ì˜¨ê¸€ì êµ¬ì´ì”¨ì§„ì§€ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_92cciJinji_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kwonny_Regular'; /* ¿Â±ÛÀÙ ±Å´Ï */
+    font-family: 'Ownglyph_kwonny_Regular'; /* ì˜¨ê¸€ì ê¶ˆë‹ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kwonny_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KwonMunjiii1_Regular'; /* ¿Â±ÛÀÙ ±Ç¸ÕÁö1 */
+    font-family: 'Ownglyph_KwonMunjiii1_Regular'; /* ì˜¨ê¸€ì ê¶Œë¨¼ì§€1 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KwonMunjiii1_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_STORY_BY_KBY_Regular'; /* ¿Â±ÛÀÙ ±Çº¸¿¬ ½ºÅä¸®Ã¼ */
+    font-family: 'Ownglyph_STORY_BY_KBY_Regular'; /* ì˜¨ê¸€ì ê¶Œë³´ì—° ìŠ¤í† ë¦¬ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_STORY_BY_KBY_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kwonseong_Regular'; /* ¿Â±ÛÀÙ ±Ç¼ºÃ¼ */
+    font-family: 'Ownglyph_kwonseong_Regular'; /* ì˜¨ê¸€ì ê¶Œì„±ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kwonseong_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_madam_Kwon_Regular'; /* ¿Â±ÛÀÙ ±Ç¿©»çÃ¼ */
+    font-family: 'Ownglyph_madam_Kwon_Regular'; /* ì˜¨ê¸€ì ê¶Œì—¬ì‚¬ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_madam_Kwon_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gwon_Jae_Regular'; /* ¿Â±ÛÀÙ ±ÇÀçÃ¼ */
+    font-family: 'Ownglyph_Gwon_Jae_Regular'; /* ì˜¨ê¸€ì ê¶Œì¬ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gwon_Jae_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kwonjuche_Regular'; /* ¿Â±ÛÀÙ ±ÇÁêÃ¼ */
+    font-family: 'Ownglyph_Kwonjuche_Regular'; /* ì˜¨ê¸€ì ê¶Œì¥¬ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kwonjuche_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_socuteyoonji_Regular'; /* ¿Â±ÛÀÙ ±Í¿©¿ö À±ÁöÃ¼ */
+    font-family: 'Ownglyph_socuteyoonji_Regular'; /* ì˜¨ê¸€ì ê·€ì—¬ì›Œ ìœ¤ì§€ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_socuteyoonji_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_cute_handwrit_Regular'; /* ¿Â±ÛÀÙ ±Í¿°»ÇÂ¦ */
+    font-family: 'Ownglyph_cute_handwrit_Regular'; /* ì˜¨ê¸€ì ê·€ì—¼ë½€ì§ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_cute_handwrit_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KY_comic_sans_Regular'; /* ¿Â±ÛÀÙ ±Í¿µ±¼¸² */
+    font-family: 'Ownglyph_KY_comic_sans_Regular'; /* ì˜¨ê¸€ì ê·€ì˜êµ´ë¦¼ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KY_comic_sans_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GYU_Film_Regular'; /* ¿Â±ÛÀÙ ±Ô Ã¤ */
+    font-family: 'Ownglyph_GYU_Film_Regular'; /* ì˜¨ê¸€ì ê·œ ì±„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GYU_Film_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gyunny_Regular'; /* ¿Â±ÛÀÙ ±Ô´Ï */
+    font-family: 'Ownglyph_gyunny_Regular'; /* ì˜¨ê¸€ì ê·œë‹ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gyunny_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Keunhee_Regular'; /* ¿Â±ÛÀÙ ±Ô´Ï²¿ */
+    font-family: 'Ownglyph_Keunhee_Regular'; /* ì˜¨ê¸€ì ê·œë‹ˆê¼¬ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Keunhee_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gyurimche_Regular'; /* ¿Â±ÛÀÙ ±Ô¸²Ã¼ */
+    font-family: 'Ownglyph_gyurimche_Regular'; /* ì˜¨ê¸€ì ê·œë¦¼ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gyurimche_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GyuMae_Regular'; /* ¿Â±ÛÀÙ ±Ô¸¶¿¡ */
+    font-family: 'Ownglyph_GyuMae_Regular'; /* ì˜¨ê¸€ì ê·œë§ˆì— */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GyuMae_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kyujin_Regular'; /* ¿Â±ÛÀÙ ±ÔÁø */
+    font-family: 'Ownglyph_Kyujin_Regular'; /* ì˜¨ê¸€ì ê·œì§„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kyujin_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gyunsu_Regular'; /* ¿Â±ÛÀÙ ±Õ¼ö */
+    font-family: 'Ownglyph_gyunsu_Regular'; /* ì˜¨ê¸€ì ê· ìˆ˜ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gyunsu_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gyulish_Regular'; /* ¿Â±ÛÀÙ ±Ö¸®½¬Ã¼ */
+    font-family: 'Ownglyph_gyulish_Regular'; /* ì˜¨ê¸€ì ê·¤ë¦¬ì‰¬ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gyulish_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gylmorning_font_Regular'; /* ¿Â±ÛÀÙ ±Ö¸ğ´×Ã¼ */
+    font-family: 'Ownglyph_Gylmorning_font_Regular'; /* ì˜¨ê¸€ì ê·¤ëª¨ë‹ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gylmorning_font_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_formalorange_Regular'; /* ¿Â±ÛÀÙ ±ÖÁ¤½ÄÃ¼ */
+    font-family: 'Ownglyph_formalorange_Regular'; /* ì˜¨ê¸€ì ê·¤ì •ì‹ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_formalorange_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gyubb_Regular'; /* ¿Â±ÛÀÙ ‚ô */
+    font-family: 'Ownglyph_gyubb_Regular'; /* ì˜¨ê¸€ì ? */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gyubb_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gram_Regular'; /* ¿Â±ÛÀÙ ±×·¥Ã¼ */
+    font-family: 'Ownglyph_gram_Regular'; /* ì˜¨ê¸€ì ê·¸ë¨ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gram_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Drawdugi_Regular'; /* ¿Â±ÛÀÙ ±×·ÁµÎ±â */
+    font-family: 'Ownglyph_Drawdugi_Regular'; /* ì˜¨ê¸€ì ê·¸ë ¤ë‘ê¸° */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Drawdugi_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_drawingboram_Regular'; /* ¿Â±ÛÀÙ ±×·Áº¸¶÷ */
+    font-family: 'Ownglyph_drawingboram_Regular'; /* ì˜¨ê¸€ì ê·¸ë ¤ë³´ëŒ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_drawingboram_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gunew00_Regular'; /* ¿Â±ÛÀÙ ±ÙÀ¯00 */
+    font-family: 'Ownglyph_Gunew00_Regular'; /* ì˜¨ê¸€ì ê·¼ìœ 00 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gunew00_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_muscleandart_Regular'; /* ¿Â±ÛÀÙ ±ÙÀ°°ú¹Ì¼ú */
+    font-family: 'Ownglyph_muscleandart_Regular'; /* ì˜¨ê¸€ì ê·¼ìœ¡ê³¼ë¯¸ìˆ  */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_muscleandart_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_happypotatolea_Regular'; /* ¿Â±ÛÀÙ ±Û¾²´Â¸®¾Æ */
+    font-family: 'Ownglyph_happypotatolea_Regular'; /* ì˜¨ê¸€ì ê¸€ì“°ëŠ”ë¦¬ì•„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_happypotatolea_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Han_Gyeja_Regular'; /* ¿Â±ÛÀÙ ±İ°­ °èÀÚÇÒ¸ÅÃ¼ */
+    font-family: 'Ownglyph_Han_Gyeja_Regular'; /* ì˜¨ê¸€ì ê¸ˆê°• ê³„ìí• ë§¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Han_Gyeja_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kim_Doae_Regular'; /* ¿Â±ÛÀÙ ±İ°­ µÎ¾ÖÇÒ¸ÅÃ¼ */
+    font-family: 'Ownglyph_Kim_Doae_Regular'; /* ì˜¨ê¸€ì ê¸ˆê°• ë‘ì• í• ë§¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kim_Doae_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Lee_Maengsuk_Regular'; /* ¿Â±ÛÀÙ ±İ°­ ¸Í¼÷ÇÒ¸ÅÃ¼ */
+    font-family: 'Ownglyph_Lee_Maengsuk_Regular'; /* ì˜¨ê¸€ì ê¸ˆê°• ë§¹ìˆ™í• ë§¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Lee_Maengsuk_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Pyo_Munja_Regular'; /* ¿Â±ÛÀÙ ±İ°­ ¹®ÀÚÇÒ¸ÅÃ¼ */
+    font-family: 'Ownglyph_Pyo_Munja_Regular'; /* ì˜¨ê¸€ì ê¸ˆê°• ë¬¸ìí• ë§¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Pyo_Munja_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Park_Yeongsuk_Regular'; /* ¿Â±ÛÀÙ ±İ°­ ¿µ¼÷ÇÒ¸ÅÃ¼ */
+    font-family: 'Ownglyph_Park_Yeongsuk_Regular'; /* ì˜¨ê¸€ì ê¸ˆê°• ì˜ìˆ™í• ë§¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Park_Yeongsuk_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Lee_Yeongsun_Regular'; /* ¿Â±ÛÀÙ ±İ°­ ¿µ¼øÇÒ¸ÅÃ¼ */
+    font-family: 'Ownglyph_Lee_Yeongsun_Regular'; /* ì˜¨ê¸€ì ê¸ˆê°• ì˜ìˆœí• ë§¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Lee_Yeongsun_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Cha_Okhui_Regular'; /* ¿Â±ÛÀÙ ±İ°­ ¿ÁÈñÇÒ¸ÅÃ¼ */
+    font-family: 'Ownglyph_Cha_Okhui_Regular'; /* ì˜¨ê¸€ì ê¸ˆê°• ì˜¥í¬í• ë§¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Cha_Okhui_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Jin_Jeongae_Regular'; /* ¿Â±ÛÀÙ ±İ°­ Á¤¾ÖÇÒ¸ÅÃ¼ */
+    font-family: 'Ownglyph_Jin_Jeongae_Regular'; /* ì˜¨ê¸€ì ê¸ˆê°• ì •ì• í• ë§¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Jin_Jeongae_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Lee_Hyonam_Regular'; /* ¿Â±ÛÀÙ ±İ°­ È¿³²ÇÒ¸ÅÃ¼ */
+    font-family: 'Ownglyph_Lee_Hyonam_Regular'; /* ì˜¨ê¸€ì ê¸ˆê°• íš¨ë‚¨í• ë§¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Lee_Hyonam_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Cho_Heeje_Regular'; /* ¿Â±ÛÀÙ ±İ°­ ÈñÁ¦ÇÒ¸ÅÃ¼ */
+    font-family: 'Ownglyph_Cho_Heeje_Regular'; /* ì˜¨ê¸€ì ê¸ˆê°• í¬ì œí• ë§¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Cho_Heeje_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Goldmirror_Regular'; /* ¿Â±ÛÀÙ ±İ°æÃ¼ */
+    font-family: 'Ownglyph_Goldmirror_Regular'; /* ì˜¨ê¸€ì ê¸ˆê²½ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Goldmirror_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_eundong_Regular'; /* ¿Â±ÛÀÙ ±İÀºµ¿Ã¼ */
+    font-family: 'Ownglyph_eundong_Regular'; /* ì˜¨ê¸€ì ê¸ˆì€ë™ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_eundong_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Dandystyle_Regular'; /* ¿Â±ÛÀÙ ±İÃµÃ¼ */
+    font-family: 'Ownglyph_Dandystyle_Regular'; /* ì˜¨ê¸€ì ê¸ˆì²œì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Dandystyle_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_indigestion_Regular'; /* ¿Â±ÛÀÙ ±ŞÃ¼ */
+    font-family: 'Ownglyph_indigestion_Regular'; /* ì˜¨ê¸€ì ê¸‰ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_indigestion_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kikimyomyo_Regular'; /* ¿Â±ÛÀÙ ±â±â¹¦¹¦ */
+    font-family: 'Ownglyph_kikimyomyo_Regular'; /* ì˜¨ê¸€ì ê¸°ê¸°ë¬˜ë¬˜ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kikimyomyo_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Ki_Nam_italic_Regular'; /* ¿Â±ÛÀÙ ±â³²¾ÆºÎ¶ó¼Ò¹ÙÃ¼ */
+    font-family: 'Ownglyph_Ki_Nam_italic_Regular'; /* ì˜¨ê¸€ì ê¸°ë‚¨ì•„ë¶€ë¼ì†Œë°”ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Ki_Nam_italic_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GIRANFONT_Regular'; /* ¿Â±ÛÀÙ ±â¶õÃ¼ */
+    font-family: 'Ownglyph_GIRANFONT_Regular'; /* ì˜¨ê¸€ì ê¸°ë€ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GIRANFONT_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_RINIRINIRINI_Regular'; /* ¿Â±ÛÀÙ ±â·ÏÄ£±¸¸®´Ï */
+    font-family: 'Ownglyph_RINIRINIRINI_Regular'; /* ì˜¨ê¸€ì ê¸°ë¡ì¹œêµ¬ë¦¬ë‹ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_RINIRINIRINI_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kirong_Regular'; /* ¿Â±ÛÀÙ ±â·Õ */
+    font-family: 'Ownglyph_kirong_Regular'; /* ì˜¨ê¸€ì ê¸°ë¡± */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kirong_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_keymyoinjae_Regular'; /* ¿Â±ÛÀÙ ±â¹¦ÀÎÀç */
+    font-family: 'Ownglyph_keymyoinjae_Regular'; /* ì˜¨ê¸€ì ê¸°ë¬˜ì¸ì¬ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_keymyoinjae_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_PassTestsAtOnce_Regular'; /* ¿Â±ÛÀÙ ±â»ç½ÃÇèÇÑ¹ø¿¡ÇÕ°İÃ¼ */
+    font-family: 'Ownglyph_PassTestsAtOnce_Regular'; /* ì˜¨ê¸€ì ê¸°ì‚¬ì‹œí—˜í•œë²ˆì—í•©ê²©ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_PassTestsAtOnce_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kiwook_font_Regular'; /* ¿Â±ÛÀÙ ±â¿í±âº»Ã¼ */
+    font-family: 'Ownglyph_Kiwook_font_Regular'; /* ì˜¨ê¸€ì ê¸°ìš±ê¸°ë³¸ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kiwook_font_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gildo_halmi_Regular'; /* ¿Â±ÛÀÙ ±æµµÇÒ¹ÌÃ¼ */
+    font-family: 'Ownglyph_gildo_halmi_Regular'; /* ì˜¨ê¸€ì ê¸¸ë„í• ë¯¸ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gildo_halmi_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kimgaji_Regular'; /* ¿Â±ÛÀÙ ±è°¡Áö */
+    font-family: 'Ownglyph_kimgaji_Regular'; /* ì˜¨ê¸€ì ê¹€ê°€ì§€ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kimgaji_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_JOO_Regular'; /* ¿Â±ÛÀÙ ±è°»Ã¼ */
+    font-family: 'Ownglyph_JOO_Regular'; /* ì˜¨ê¸€ì ê¹€ê°±ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_JOO_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_itsmekim_Regular'; /* ¿Â±ÛÀÙ ±è±âÇöÀÌ¿Ã½Ã´Ù */
+    font-family: 'Ownglyph_itsmekim_Regular'; /* ì˜¨ê¸€ì ê¹€ê¸°í˜„ì´ì˜¬ì‹œë‹¤ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_itsmekim_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kkung_Regular'; /* ¿Â±ÛÀÙ ±è±î²á */
+    font-family: 'Ownglyph_kkung_Regular'; /* ì˜¨ê¸€ì ê¹€ê¹Œê¿ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kkung_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KimNaRi_Regular'; /* ¿Â±ÛÀÙ ±è³ª¸®Ã¼ */
+    font-family: 'Ownglyph_KimNaRi_Regular'; /* ì˜¨ê¸€ì ê¹€ë‚˜ë¦¬ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KimNaRi_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_DaeunScribble_Regular'; /* ¿Â±ÛÀÙ ±è´ÙÀº¼Õ±Û¾¾Ã¼ */
+    font-family: 'Ownglyph_DaeunScribble_Regular'; /* ì˜¨ê¸€ì ê¹€ë‹¤ì€ì†ê¸€ì”¨ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_DaeunScribble_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kimdaeseok_Regular'; /* ¿Â±ÛÀÙ ±è´ë¼®Ã¼ */
+    font-family: 'Ownglyph_kimdaeseok_Regular'; /* ì˜¨ê¸€ì ê¹€ëŒ€ì„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kimdaeseok_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_B2gi_Regular'; /* ¿Â±ÛÀÙ ±èµÑ±â */
+    font-family: 'Ownglyph_B2gi_Regular'; /* ì˜¨ê¸€ì ê¹€ë‘˜ê¸° */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_B2gi_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Duo_Kim_Regular'; /* ¿Â±ÛÀÙ ±èµà¿À */
+    font-family: 'Ownglyph_Duo_Kim_Regular'; /* ì˜¨ê¸€ì ê¹€ë“€ì˜¤ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Duo_Kim_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kimloro_Regular'; /* ¿Â±ÛÀÙ ±è·Î·Î */
+    font-family: 'Ownglyph_kimloro_Regular'; /* ì˜¨ê¸€ì ê¹€ë¡œë¡œ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kimloro_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_MUNZY_FONT_Regular'; /* ¿Â±ÛÀÙ ±è¸ÕÁö ±Û¾¾Ã¼ */
+    font-family: 'Ownglyph_MUNZY_FONT_Regular'; /* ì˜¨ê¸€ì ê¹€ë¨¼ì§€ ê¸€ì”¨ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_MUNZY_FONT_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kimung_Regular'; /* ¿Â±ÛÀÙ ±è¹¶¹¶ */
+    font-family: 'Ownglyph_kimung_Regular'; /* ì˜¨ê¸€ì ê¹€ë­‰ë­‰ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kimung_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kimmiso_Regular'; /* ¿Â±ÛÀÙ ±è¹Ì¼ÒÃ¼ */
+    font-family: 'Ownglyph_kimmiso_Regular'; /* ì˜¨ê¸€ì ê¹€ë¯¸ì†Œì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kimmiso_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_miyeon_Regular'; /* ¿Â±ÛÀÙ ±è¹Ì¿¬ */
+    font-family: 'Ownglyph_miyeon_Regular'; /* ì˜¨ê¸€ì ê¹€ë¯¸ì—° */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_miyeon_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kimboram_Regular'; /* ¿Â±ÛÀÙ ±èº¸¶÷Ã¼ */
+    font-family: 'Ownglyph_kimboram_Regular'; /* ì˜¨ê¸€ì ê¹€ë³´ëŒì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kimboram_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kim_Sunyeob_Regular'; /* ¿Â±ÛÀÙ ±è¼±¿± */
+    font-family: 'Ownglyph_Kim_Sunyeob_Regular'; /* ì˜¨ê¸€ì ê¹€ì„ ì—½ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kim_Sunyeob_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KSM70_Regular'; /* ¿Â±ÛÀÙ ±è¼º¸¸70Ã¼ */
+    font-family: 'Ownglyph_KSM70_Regular'; /* ì˜¨ê¸€ì ê¹€ì„±ë§Œ70ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KSM70_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kimsua_Regular'; /* ¿Â±ÛÀÙ ±è¼ö¾Æ */
+    font-family: 'Ownglyph_kimsua_Regular'; /* ì˜¨ê¸€ì ê¹€ìˆ˜ì•„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kimsua_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_kimsoonduk_Regular'; /* ¿Â±ÛÀÙ ±è¼ø´öÃ¼ */
+    font-family: 'Owgnylph_kimsoonduk_Regular'; /* ì˜¨ê¸€ì ê¹€ìˆœë•ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_kimsoonduk_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Younghee_Kim_Regular'; /* ¿Â±ÛÀÙ ±è¿µÈñ */
+    font-family: 'Ownglyph_Younghee_Kim_Regular'; /* ì˜¨ê¸€ì ê¹€ì˜í¬ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Younghee_Kim_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KIM52_Regular'; /* ¿Â±ÛÀÙ ±è¿À¸®Ã¼ */
+    font-family: 'Ownglyph_KIM52_Regular'; /* ì˜¨ê¸€ì ê¹€ì˜¤ë¦¬ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KIM52_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_yjkim_Regular'; /* ¿Â±ÛÀÙ ±èÀ±Á¤Ã¼ */
+    font-family: 'Ownglyph_yjkim_Regular'; /* ì˜¨ê¸€ì ê¹€ìœ¤ì •ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_yjkim_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Jae_Regular'; /* ¿Â±ÛÀÙ ±èÀçÀ¯ */
+    font-family: 'Ownglyph_Jae_Regular'; /* ì˜¨ê¸€ì ê¹€ì¬ìœ  */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Jae_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kimjaehyun_Regular'; /* ¿Â±ÛÀÙ ±èÀçÇö */
+    font-family: 'Ownglyph_kimjaehyun_Regular'; /* ì˜¨ê¸€ì ê¹€ì¬í˜„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kimjaehyun_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Owgnylph_Jeongu_Regular'; /* ¿Â±ÛÀÙ ±èÁ¤¿ì */
+    font-family: 'Owgnylph_Jeongu_Regular'; /* ì˜¨ê¸€ì ê¹€ì •ìš° */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Owgnylph_Jeongu_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Realfont_Regular'; /* ¿Â±ÛÀÙ ±èÁ¤ÈÆÃ¼ */
+    font-family: 'Ownglyph_Realfont_Regular'; /* ì˜¨ê¸€ì ê¹€ì •í›ˆì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Realfont_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kimjiyeon_Regular'; /* ¿Â±ÛÀÙ ±èÁö¿¬ */
+    font-family: 'Ownglyph_Kimjiyeon_Regular'; /* ì˜¨ê¸€ì ê¹€ì§€ì—° */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kimjiyeon_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_PearlKim_Regular'; /* ¿Â±ÛÀÙ ±èÁøÁÖÆŞÅ´Ã¼ */
+    font-family: 'Ownglyph_PearlKim_Regular'; /* ì˜¨ê¸€ì ê¹€ì§„ì£¼í„í‚´ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_PearlKim_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kimchun_Regular'; /* ¿Â±ÛÀÙ ±èÃá */
+    font-family: 'Ownglyph_kimchun_Regular'; /* ì˜¨ê¸€ì ê¹€ì¶˜ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kimchun_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kimchi_Pancake_Regular'; /* ¿Â±ÛÀÙ ±èÄ¡ÀüÃ¼ */
+    font-family: 'Ownglyph_Kimchi_Pancake_Regular'; /* ì˜¨ê¸€ì ê¹€ì¹˜ì „ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kimchi_Pancake_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_konghae_Regular'; /* ¿Â±ÛÀÙ ±èÄáÇØ */
+    font-family: 'Ownglyph_konghae_Regular'; /* ì˜¨ê¸€ì ê¹€ì½©í•´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_konghae_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KTN_FONT_Regular'; /* ¿Â±ÛÀÙ ±èÅÃ³âÃ¼ */
+    font-family: 'Ownglyph_KTN_FONT_Regular'; /* ì˜¨ê¸€ì ê¹€íƒë…„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KTN_FONT_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_HyeRiFont_Regular'; /* ¿Â±ÛÀÙ ±èÇı¸®ÆùÆ® */
+    font-family: 'Ownglyph_HyeRiFont_Regular'; /* ì˜¨ê¸€ì ê¹€í˜œë¦¬í°íŠ¸ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_HyeRiFont_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_grace_Regular'; /* ¿Â±ÛÀÙ ±èÈ«µµ */
+    font-family: 'Ownglyph_grace_Regular'; /* ì˜¨ê¸€ì ê¹€í™ë„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_grace_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KIMHEENA_Regular'; /* ¿Â±ÛÀÙ ±èÈñ³ª */
+    font-family: 'Ownglyph_KIMHEENA_Regular'; /* ì˜¨ê¸€ì ê¹€í¬ë‚˜ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KIMHEENA_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Peekabooo_Regular'; /* ¿Â±ÛÀÙ ±î²áÀÌÃ¼ */
+    font-family: 'Ownglyph_Peekabooo_Regular'; /* ì˜¨ê¸€ì ê¹Œê¿ì´ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Peekabooo_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Black_Charcoal_Font_Regular'; /* ¿Â±ÛÀÙ ±î¸Á¿¬ÅºÃ¼ */
+    font-family: 'Ownglyph_Black_Charcoal_Font_Regular'; /* ì˜¨ê¸€ì ê¹Œë§ì—°íƒ„ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Black_Charcoal_Font_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kkamiche_Regular'; /* ¿Â±ÛÀÙ ±îÅ»¼ö¹ÌÀÇ ±î¹ÌÃ¼ */
+    font-family: 'Ownglyph_Kkamiche_Regular'; /* ì˜¨ê¸€ì ê¹Œíƒˆìˆ˜ë¯¸ì˜ ê¹Œë¯¸ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kkamiche_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_parkssam_font_Regular'; /* ¿Â±ÛÀÙ ±ò²û ¹Ú½ÜÃ¼ */
+    font-family: 'Ownglyph_parkssam_font_Regular'; /* ì˜¨ê¸€ì ê¹”ë” ë°•ìŒ¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_parkssam_font_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_CLEANBAEK_Regular'; /* ¿Â±ÛÀÙ ±ò²û¹éÃ¼ */
+    font-family: 'Ownglyph_CLEANBAEK_Regular'; /* ì˜¨ê¸€ì ê¹”ë”ë°±ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_CLEANBAEK_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_KKYAUL_Regular'; /* ¿Â±ÛÀÙ ²¥¿ï */
+    font-family: 'Ownglyph_KKYAUL_Regular'; /* ì˜¨ê¸€ì êº„ìš¸ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_KKYAUL_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_ggya_Regular'; /* ¿Â±ÛÀÙ ²¥ÀÇÃ¼ */
+    font-family: 'Ownglyph_ggya_Regular'; /* ì˜¨ê¸€ì êº„ì˜ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_ggya_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GGOGGO_Regular'; /* ¿Â±ÛÀÙ ²¿²¿¾²Ã¼ */
+    font-family: 'Ownglyph_GGOGGO_Regular'; /* ì˜¨ê¸€ì ê¼¬ê¼¬ì“°ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GGOGGO_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GGODOONG_Regular'; /* ¿Â±ÛÀÙ ²¿µÕ */
+    font-family: 'Ownglyph_GGODOONG_Regular'; /* ì˜¨ê¸€ì ê¼¬ë‘¥ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GGODOONG_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kkoronge_Regular'; /* ¿Â±ÛÀÙ ²¿·ÕÀÌ */
+    font-family: 'Ownglyph_kkoronge_Regular'; /* ì˜¨ê¸€ì ê¼¬ë¡±ì´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kkoronge_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Comet619_Regular'; /* ¿Â±ÛÀÙ ²¿¸®º° */
+    font-family: 'Ownglyph_Comet619_Regular'; /* ì˜¨ê¸€ì ê¼¬ë¦¬ë³„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Comet619_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kkoriburi_Regular'; /* ¿Â±ÛÀÙ ²¿¸®ºÎ¸® */
+    font-family: 'Ownglyph_Kkoriburi_Regular'; /* ì˜¨ê¸€ì ê¼¬ë¦¬ë¶€ë¦¬ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kkoriburi_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_ggoma_Regular'; /* ¿Â±ÛÀÙ ²¿¸¶ */
+    font-family: 'Ownglyph_ggoma_Regular'; /* ì˜¨ê¸€ì ê¼¬ë§ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_ggoma_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_ggomassam_Regular'; /* ¿Â±ÛÀÙ ²¿¸¶½ÜÃ¼ */
+    font-family: 'Ownglyph_ggomassam_Regular'; /* ì˜¨ê¸€ì ê¼¬ë§ˆìŒ¤ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_ggomassam_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kkomimama_Regular'; /* ¿Â±ÛÀÙ ²¿¹Ì¸¾ */
+    font-family: 'Ownglyph_kkomimama_Regular'; /* ì˜¨ê¸€ì ê¼¬ë¯¸ë§˜ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kkomimama_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Gardenflower_Regular'; /* ¿Â±ÛÀÙ ²ÁÀÙ */
+    font-family: 'Ownglyph_Gardenflower_Regular'; /* ì˜¨ê¸€ì ê¼°ì */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Gardenflower_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_bbear_Regular'; /* ¿Â±ÛÀÙ ²Ä */
+    font-family: 'Ownglyph_bbear_Regular'; /* ì˜¨ê¸€ì ê¼¼ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_bbear_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_flowerwalk_Regular'; /* ¿Â±ÛÀÙ ²É±æ¸¸°È±â¸¦ */
+    font-family: 'Ownglyph_flowerwalk_Regular'; /* ì˜¨ê¸€ì ê½ƒê¸¸ë§Œê±·ê¸°ë¥¼ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_flowerwalk_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kkotmulilgi_Regular'; /* ¿Â±ÛÀÙ ²É¹°ÀÏ±âÃ¼ */
+    font-family: 'Ownglyph_kkotmulilgi_Regular'; /* ì˜¨ê¸€ì ê½ƒë¬¼ì¼ê¸°ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kkotmulilgi_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_flowerstar_Regular'; /* ¿Â±ÛÀÙ ²Éº° */
+    font-family: 'Ownglyph_flowerstar_Regular'; /* ì˜¨ê¸€ì ê½ƒë³„ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_flowerstar_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_flowersaem_Regular'; /* ¿Â±ÛÀÙ ²É»ù±Û¾¾Ã¼ */
+    font-family: 'Ownglyph_flowersaem_Regular'; /* ì˜¨ê¸€ì ê½ƒìƒ˜ê¸€ì”¨ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_flowersaem_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_flowerjin_Regular'; /* ¿Â±ÛÀÙ ²ÉÁö´Ï */
+    font-family: 'Ownglyph_flowerjin_Regular'; /* ì˜¨ê¸€ì ê½ƒì§€ë‹ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_flowerjin_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_ggugiche_Regular'; /* ¿Â±ÛÀÙ ²Ù±âÃ¼ */
+    font-family: 'Ownglyph_ggugiche_Regular'; /* ì˜¨ê¸€ì ê¾¸ê¸°ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_ggugiche_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_koonal_Regular'; /* ¿Â±ÛÀÙ ²Ù³¯Ã¼ */
+    font-family: 'Ownglyph_koonal_Regular'; /* ì˜¨ê¸€ì ê¾¸ë‚ ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_koonal_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Coude_Regular'; /* ¿Â±ÛÀÙ ²ÙµåÃ¼ */
+    font-family: 'Ownglyph_Coude_Regular'; /* ì˜¨ê¸€ì ê¾¸ë“œì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Coude_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_GGULY_Regular'; /* ¿Â±ÛÀÙ ²Ù¸®²ÜÀÌÃ¼ */
+    font-family: 'Ownglyph_GGULY_Regular'; /* ì˜¨ê¸€ì ê¾¸ë¦¬ê¿€ì´ì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GGULY_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_windingche_Regular'; /* ¿Â±ÛÀÙ ²ÙºÒ²ÙºÒÃ¼ */
+    font-family: 'Ownglyph_windingche_Regular'; /* ì˜¨ê¸€ì ê¾¸ë¶ˆê¾¸ë¶ˆì²´ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_windingche_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_gguaekman_Regular'; /* ¿Â±ÛÀÙ ²Ù¾×¸Ç */
+    font-family: 'Ownglyph_gguaekman_Regular'; /* ì˜¨ê¸€ì ê¾¸ì•¡ë§¨ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_gguaekman_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_ggulbok_Regular'; /* ¿Â±ÛÀÙ ²Üº¹ */
+    font-family: 'Ownglyph_ggulbok_Regular'; /* ì˜¨ê¸€ì ê¿€ë³µ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_ggulbok_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_yellow_dream_Regular'; /* ¿Â±ÛÀÙ ²Ş³ë¶û */
+    font-family: 'Ownglyph_yellow_dream_Regular'; /* ì˜¨ê¸€ì ê¿ˆë…¸ë‘ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_yellow_dream_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_youmeshin_Regular'; /* ¿Â±ÛÀÙ ²ŞÀÌ¿Ã¶ó */
+    font-family: 'Ownglyph_youmeshin_Regular'; /* ì˜¨ê¸€ì ê¿ˆì´ì˜¬ë¼ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_youmeshin_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_kkmmung_Regular'; /* ¿Â±ÛÀÙ ²ô¸Û */
+    font-family: 'Ownglyph_kkmmung_Regular'; /* ì˜¨ê¸€ì ë„ë© */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_kkmmung_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kkima_Regular'; /* ¿Â±ÛÀÙ ³¢¸¶ */
+    font-family: 'Ownglyph_Kkima_Regular'; /* ì˜¨ê¸€ì ë¼ë§ˆ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kkima_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Ownglyph_Kimko_Regular'; /* ¿Â±ÛÀÙ ³¦²¿ ¼Õ±Û¾¾ */
+    font-family: 'Ownglyph_Kimko_Regular'; /* ì˜¨ê¸€ì ë‚Œê¼¬ ì†ê¸€ì”¨ */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Kimko_Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Ownglyph_NaHongche_Regular'; /* ì˜¨ê¸€ì ë‚˜ ì§€ê¸ˆ í™ì„œì²´ì•¼ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_NaHongche_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_NAGO_font_Regular'; /* ì˜¨ê¸€ì ë‚˜ê³ ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_NAGO_font_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_NaFont_Regular'; /* ì˜¨ê¸€ì ë‚˜ê¸€ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_NaFont_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nana_hand_Regular'; /* ì˜¨ê¸€ì ë‚˜ë‚˜ ì†ê¸€ì”¨ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Nana_hand_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_i_am_miyeon_Regular'; /* ì˜¨ê¸€ì ë‚˜ëŠ” ë¯¸ì—°ì´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_i_am_miyeon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Ohgoo_Regular'; /* ì˜¨ê¸€ì ë‚˜ëŠ”ì˜¤êµ¬ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Ohgoo_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JUYEON_Regular'; /* ì˜¨ê¸€ì ë‚˜ëŠ”ì£¼ì—° */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_JUYEON_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_ImHayeon_Regular'; /* ì˜¨ê¸€ì ë‚˜ëŠ”í•˜ì—° */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_ImHayeon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_I_can_do_it_Regular'; /* ì˜¨ê¸€ì ë‚˜ë„ í• ìˆ˜ìˆì–´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_I_can_do_it_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nadongisgood_Regular'; /* ì˜¨ê¸€ì ë‚˜ë™ì´ê¸€ì§±ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Nadongisgood_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Naryo_Regular'; /* ì˜¨ê¸€ì ë‚˜ë£Œì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Naryo_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Narudiary_Regular'; /* ì˜¨ê¸€ì ë‚˜ë£¨ì¼ê¸° */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Narudiary_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_WoodenMirror_Regular'; /* ì˜¨ê¸€ì ë‚˜ë¬´ê±°ìš¸ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_WoodenMirror_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_NAMU_font_Regular'; /* ì˜¨ê¸€ì ë‚˜ë¬´ê·¸ë¦¼ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_NAMU_font_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_namugaji_Regular'; /* ì˜¨ê¸€ì ë‚˜ë­‡ê°€ì§€ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_namugaji_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nami_Regular'; /* ì˜¨ê¸€ì ë‚˜ë¯¸ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nami_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nabbongbbong_Regular'; /* ì˜¨ê¸€ì ë‚˜ë½•ë½• */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nabbongbbong_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_leeny_Regular'; /* ì˜¨ê¸€ì ë‚˜ì—° */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_leeny_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_SUNNY70_Regular'; /* ì˜¨ê¸€ì ë‚˜ì˜70ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_SUNNY70_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Munnaeunpapa_Regular'; /* ì˜¨ê¸€ì ë‚˜ì€ì•„ë¹  */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Munnaeunpapa_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_My_mom_YoungOk_Regular'; /* ì˜¨ê¸€ì ë‚˜ì˜ ì—„ë§ˆ ì˜ì˜¥ì”¨ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_My_mom_YoungOk_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_myhandwriting_Regular'; /* ì˜¨ê¸€ì ë‚˜ì˜ê¸€ì”¨ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_myhandwriting_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_NiceOneSonny_Regular'; /* ì˜¨ê¸€ì ë‚˜ì´ìŠ¤ì›ì†Œë‹ˆì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_NiceOneSonny_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nahyunee2_Regular'; /* ì˜¨ê¸€ì ë‚˜í˜€ë‹ˆ2 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nahyunee2_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_FLYING_Regular'; /* ì˜¨ê¸€ì ë‚ ë¦°ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_FLYING_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_IM_YOJI_Regular'; /* ì˜¨ê¸€ì ë‚ ë¦¼ìš”ì§€ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_IM_YOJI_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nalbaeksoo_Regular'; /* ì˜¨ê¸€ì ë‚ ë°±ìˆ˜ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nalbaeksoo_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_AntarcticaBear_Regular'; /* ì˜¨ê¸€ì ë‚¨ê·¹ê³°ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_AntarcticaBear_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Namirang_Regular'; /* ì˜¨ê¸€ì ë‚¨ì´ë‘ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Namirang_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_namji_Regular'; /* ì˜¨ê¸€ì ë‚¨ì§€ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_namji_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_YourockinNamhae_Regular'; /* ì˜¨ê¸€ì ë‚¨í•´ìœ ë¡ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_YourockinNamhae_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_smilla_serious_Regular'; /* ì˜¨ê¸€ì ë‚¨í˜œí˜„ ê¶ì„œì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_smilla_serious_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nabnaby_Regular'; /* ì˜¨ê¸€ì ë‚©ë‚˜ë¹„ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nabnaby_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Heeheee_Regular'; /* ì˜¨ê¸€ì ë‚´êº¼ì•¼ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Heeheee_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_lefthandfont_Regular'; /* ì˜¨ê¸€ì ë‚´ì™¼ì†ê¸€ì”¨ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_lefthandfont_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_whateverBB_Regular'; /* ì˜¨ê¸€ì ë‚´í‚¤ëŠ”ëŒ€ë¡œ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_whateverBB_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_NaengE_Regular'; /* ì˜¨ê¸€ì ëƒ‰ì´ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_NaengE_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nyang_Regular'; /* ì˜¨ê¸€ì ëƒì•™ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nyang_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nyangnyangSY_Regular'; /* ì˜¨ê¸€ì ëƒ¥ëƒ¥ì†ê¸€ì”¨ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nyangnyangSY_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_neogi_Big_Regular'; /* ì˜¨ê¸€ì ë„ˆê¸°ì²´ ë¹…ì‚¬ì´ì¦ˆ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_neogi_Big_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_neogiche_Regular'; /* ì˜¨ê¸€ì ë„ˆê¸°ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_neogiche_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_YoungE_Regular'; /* ì˜¨ê¸€ì ë„ì´ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_YoungE_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_AreYouForReal_Regular'; /* ì˜¨ê¸€ì ë„¤ë©‹ëŒ€ë¡œí–‰ë³µí•˜ë¼ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_AreYouForReal_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nemobandeut_Regular'; /* ì˜¨ê¸€ì ë„¤ëª¨ë°˜ë“¯ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Nemobandeut_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nemoff_Regular'; /* ì˜¨ê¸€ì ë„¤ëª¨ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nemoff_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nemohaji_Regular'; /* ì˜¨ê¸€ì ë„¤ëª¨í•˜ì§€ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Nemohaji_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nemong_Regular'; /* ì˜¨ê¸€ì ë„¤ëª½ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nemong_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_NeonIdea_Regular'; /* ì˜¨ê¸€ì ë„¤ì˜¨ì•„ì´ë””ì–´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_NeonIdea_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_neji_Regular'; /* ì˜¨ê¸€ì ë„¤ì§€ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_neji_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nemmo_Regular'; /* ì˜¨ê¸€ì ë„´ëª¨ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Nemmo_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_NeongEee32_Regular'; /* ì˜¨ê¸€ì ë„¹ì´32ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_NeongEee32_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_noddu_daily_Regular'; /* ì˜¨ê¸€ì ë…¸ëšœ ì¼ìƒ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_noddu_daily_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_NODDU'; /* ì˜¨ê¸€ì ë…¸ëšœ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_NODDU.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Norang_Regular'; /* ì˜¨ê¸€ì ë…¸ë‘ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Norang_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Yellow_Cheese_Regular'; /* ì˜¨ê¸€ì ë…¸ë‘ì¹˜ì¦ˆ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Yellow_Cheese_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Norusimple_Regular'; /* ì˜¨ê¸€ì ë…¸ë£¨ì‹¬í”Œ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Norusimple_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_noshooni_Regular'; /* ì˜¨ê¸€ì ë…¸ìŠˆë‹ˆ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_noshooni_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nyongreeone_Regular'; /* ì˜¨ê¸€ì ë‡½ê·¸ë¦¬ì›ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Nyongreeone_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nyongsso_Regular'; /* ì˜¨ê¸€ì ë‡½ì˜ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nyongsso_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nunu_Regular'; /* ì˜¨ê¸€ì ëˆ„ëˆ„ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Nunu_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_yunurise_Regular'; /* ì˜¨ê¸€ì ëˆ„íˆì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_yunurise_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nunsolfont_Regular'; /* ì˜¨ê¸€ì ëˆˆì†”ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Nunsolfont_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Snowing_Regular'; /* ì˜¨ê¸€ì ëˆˆì´ì˜¤ë©´ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Snowing_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nuntenbamten_Regular'; /* ì˜¨ê¸€ì ëˆˆíƒ±ë°¤íƒ± */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nuntenbamten_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Lody_Regular'; /* ì˜¨ê¸€ì ë‰´ë¦¬ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Lody_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Newil_Regular'; /* ì˜¨ê¸€ì ë‰´ì¼ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Newil_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Yooooonjae_Regular'; /* ì˜¨ê¸€ì ë‰¸ì¬ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Yooooonjae_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nugood_NippyBoy_Regular'; /* ì˜¨ê¸€ì ëŠê¸‹ ë‚ ìŒ˜ëŒì´ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Nugood_NippyBoy_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nugood_Mungchi_Regular'; /* ì˜¨ê¸€ì ëŠê¸‹ ë­‰ì¹˜ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Nugood_Mungchi_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nugood_Hwani_Regular'; /* ì˜¨ê¸€ì ëŠê¸‹ í™”ë‹ˆì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Nugood_Hwani_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Deoua_Regular'; /* ì˜¨ê¸€ì ë‹ˆê°€ë„ˆë¬´ë´ì•„ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_Deoua_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_nit_Regular'; /* ì˜¨ê¸€ì ë‹ˆíŠ¸ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_nit_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_NINZZANG_Regular'; /* ì˜¨ê¸€ì ë‹Œì§±ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_NINZZANG_Regular.woff2') format('woff2');
 }
 
