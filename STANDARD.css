@@ -1519,6 +1519,11 @@
 }
 
 @font-face {
+    font-family: 'Ownglyph_GGGG_Regular'; /* 온글잎 오지 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC/Ownglyph_GGGG_Regular.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'Ownglyph_corncorn02_Regular'; /* 온글잎 옥쓔 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/STANDARD/Ownglyph_corncorn02_Regular.woff2') format('woff2');
 }
