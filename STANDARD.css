@@ -1199,6 +1199,11 @@
 }
 
 @font-face {
+    font-family: 'Ownglyph_SeungwolHW_Regular'; /* 온글잎 승월혜광 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/STANDARD/Ownglyph_SeungwolHW_Regular.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'Ownglyph_Simon_Lee_Regular'; /* 온글잎 승윤체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/STANDARD/Ownglyph_Simon_Lee_Regular.woff2') format('woff2');
 }
