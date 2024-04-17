@@ -5383,6 +5383,11 @@
 }
 
 @font-face {
+    font-family: 'Ownglyph_Ankediary_Regular'; /* 온글잎 안케의일기 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Ankediary_Regular.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'Ownglyph_Always_Regular'; /* 온글잎 앉으나서나 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Always_Regular.woff2') format('woff2');
 }
