@@ -1078,6 +1078,7 @@
         '온글잎_안녕하세미': 'BASIC2/Files/온글잎_안녕하세미.zip',
         '온글잎_안이쁜_폰트': 'BASIC2/Files/온글잎_안이쁜_폰트.zip',
         '온글잎_안지콩체': 'BASIC2/Files/온글잎_안지콩체.zip',
+        '온글잎_안케의일기': 'BASIC2/Files/온글잎_안케의일기.zip',
         '온글잎_앉으나서나': 'BASIC2/Files/온글잎_앉으나서나.zip',
         '온글잎_알로하체': 'BASIC2/Files/온글잎_알로하체.zip',
         '온글잎_알린남쑤': 'BASIC2/Files/온글잎_알린남쑤.zip',
