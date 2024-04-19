@@ -7282,3 +7282,948 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_leafmoon_Regular.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Ownglyph_jageunco_Regular'; /* 온글잎 자근코 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jageunco_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jamongiii_Regular'; /* 온글잎 자몽이 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jamongiii_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Lune_Regular'; /* 온글잎 자몽체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Lune_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_zaon_Regular'; /* 온글잎 자온체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_zaon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_littleso_Regular'; /* 온글잎 작은쏘니체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_littleso_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jaan_Regular'; /* 온글잎 잔 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jaan_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jandi_Regular'; /* 온글잎 잔디 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jandi_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_smallstar_Regular'; /* 온글잎 잔별체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_smallstar_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jangkwon_Regular'; /* 온글잎 장권체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jangkwon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_BEAN17_Regular'; /* 온글잎 장난꾸러기콩체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_BEAN17_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_luckytree_Regular'; /* 온글잎 장만복 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_luckytree_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JangMalgam_Regular'; /* 온글잎 장말감체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JangMalgam_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jangye_Regular'; /* 온글잎 장예 손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jangye_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Owgnylph_Yunseo_Regular'; /* 온글잎 장윤서 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Owgnylph_Yunseo_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jangjunmu_Regular'; /* 온글잎 장전무 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jangjunmu_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_attaH_Regular'; /* 온글잎 장하다 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_attaH_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JangHan_Regular'; /* 온글잎 장한 필기 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JangHan_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JAEGEONSA_Regular'; /* 온글잎 재건사 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JAEGEONSA_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JaeGeum_Regular'; /* 온글잎 재금체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JaeGeum_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jaewon_Regular'; /* 온글잎 재원 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jaewon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jaeyou_Regular'; /* 온글잎 재유체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jaeyou_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_alz_im_Regular'; /* 온글잎 재임체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_alz_im_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jaehyung20_Regular'; /* 온글잎 재형스물체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jaehyung20_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Owgnylph_jaehoon_Regular'; /* 온글잎 재훈체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Owgnylph_jaehoon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jen_Regular'; /* 온글잎 잰 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jen_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jamgooche_Regular'; /* 온글잎 잼구체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jamgooche_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jamminji_Regular'; /* 온글잎 잼민지체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jamminji_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Zapche_Regular'; /* 온글잎 잽체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Zapche_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jyani_font_Regular'; /* 온글잎 쟈니체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jyani_font_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JJang25_Regular'; /* 온글잎 쟝25 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JJang25_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jjangnii_Regular'; /* 온글잎 쟝니체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jjangnii_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jungeysung_Regular'; /* 온글잎 전계성 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jungeysung_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jiny_Regular'; /* 온글잎 전숙진 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jiny_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_sookhee_Regular'; /* 온글잎 전숙희체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_sookhee_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_miciri_Regular'; /* 온글잎 정감독폰트 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_miciri_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jungkok_Regular'; /* 온글잎 정곡체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jungkok_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Straightforward_Regular'; /* 온글잎 정돈 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Straightforward_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jungryunstyle_Regular'; /* 온글잎 정련체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jungryunstyle_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Minilight_Regular'; /* 온글잎 정미니 얇은체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Minilight_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jmini_Regular'; /* 온글잎 정미니체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jmini_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_minis_Regular'; /* 온글잎 정민이 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_minis_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jeongming9_Regular'; /* 온글잎 정밍구체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jeongming9_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_mylovemom_Regular'; /* 온글잎 정베로니카체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_mylovemom_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JungVillain_Regular'; /* 온글잎 정빌런 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JungVillain_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Owgnylph_Seoyeon_Regular'; /* 온글잎 정서연 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Owgnylph_Seoyeon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_CSDWG_Regular'; /* 온글잎 정선대원군체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_CSDWG_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_DiligentlySuji_Regular'; /* 온글잎 정성들여쓴수지 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_DiligentlySuji_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Chung_amsu_Regular'; /* 온글잎 정암수필기체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Chung_amsu_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JungAeRan_Regular'; /* 온글잎 정애란 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JungAeRan_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jeongyeongella_Regular'; /* 온글잎 정연젤라 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jeongyeongella_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JungOk_Style_Regular'; /* 온글잎 정옥체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JungOk_Style_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_gardener_Regular'; /* 온글잎 정원체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_gardener_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JEONGYUJIN_Regular'; /* 온글잎 정유진 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JEONGYUJIN_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_yumm_Regular'; /* 온글잎 정윰 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_yumm_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JUK_Regular'; /* 온글잎 정은경체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JUK_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Ini_Regular'; /* 온글잎 정이니 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Ini_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jeongjin_Regular'; /* 온글잎 정진 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jeongjin_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_YHG_Regular'; /* 온글잎 정책관리 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_YHG_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jeongtoll_style_Regular'; /* 온글잎 정톨체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jeongtoll_style_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JUNGHYEON_Regular'; /* 온글잎 정현 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JUNGHYEON_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JJung36_Regular'; /* 온글잎 정화36 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JJung36_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jamespark_Regular'; /* 온글잎 정훈정훈 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jamespark_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jennagizer_Regular'; /* 온글잎 제나 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jennagizer_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Arbitrarily_Regular'; /* 온글잎 제멋대로 손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Arbitrarily_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_violet_Regular'; /* 온글잎 제비꽃 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_violet_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_chayooon_Regular'; /* 온글잎 제순맘 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_chayooon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jay17_Regular'; /* 온글잎 제이17 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jay17_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jbein_font_Regular'; /* 온글잎 제이비인 폰트 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jbein_font_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jyou_Regular'; /* 온글잎 제이유 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jyou_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jejui_Regular'; /* 온글잎 제주아이 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jejui_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jejuhyun_Regular'; /* 온글잎 제주효니 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jejuhyun_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jamie_Regular'; /* 온글잎 젬 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jamie_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jyeoni_Regular'; /* 온글잎 져니체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jyeoni_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JYs_Diary_Regular'; /* 온글잎 졍이는 다꾸중 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JYs_Diary_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_zezejh_Regular'; /* 온글잎 졔졔글꼴 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_zezejh_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JanJane_Regular'; /* 온글잎 졘졘 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JanJane_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JoNyoon_Regular'; /* 온글잎 조뉸체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JoNyoon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JoDaengdaeng_Regular'; /* 온글잎 조댕댕 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JoDaengdaeng_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_joynyang_Regular'; /* 온글잎 조이냥체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_joynyang_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jonyerim_Regular'; /* 온글잎 존예림체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jonyerim_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_zollim_Regular'; /* 온글잎 졸림체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_zollim_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jongbom_Regular'; /* 온글잎 종봄체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jongbom_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jongari_font_Regular'; /* 온글잎 종아리 아리체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jongari_font_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jppark_Regular'; /* 온글잎 종필글씨체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jppark_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jongho2_Regular'; /* 온글잎 종호체2 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jongho2_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_juhojjokong_Regular'; /* 온글잎 죠쪼콩 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_juhojjokong_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jugguri_Regular'; /* 온글잎 주꾸리 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jugguri_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Kjh1030_Regular'; /* 온글잎 주녕 손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Kjh1030_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jeongin_Regular'; /* 온글잎 주닌체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jeongin_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JUDEANG_Regular'; /* 온글잎 주댕체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JUDEANG_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jooreeletter_Regular'; /* 온글잎 주리손편지 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jooreeletter_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JYMon_Regular'; /* 온글잎 주얌체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JYMon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jooyoung_Regular'; /* 온글잎 주영 손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jooyoung_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jiujitsubear_Regular'; /* 온글잎 주짓곰 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jiujitsubear_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_my_chan_font_Regular'; /* 온글잎 주찬체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_my_chan_font_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Juhyun_begins_Regular'; /* 온글잎 주현시작체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Juhyun_begins_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Font_juhyun_Regular'; /* 온글잎 주현체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Font_juhyun_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jooheepont_Regular'; /* 온글잎 주희손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jooheepont_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_juheehee_Regular'; /* 온글잎 주히히 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_juheehee_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JoonHandwriting_Regular'; /* 온글잎 준손글씨체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JoonHandwriting_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Juliettethings_Regular'; /* 온글잎 줄리엣띵스 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Juliettethings_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_joonghorang_Regular'; /* 온글잎 중호랑 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_joonghorang_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jiji_Regular'; /* 온글잎 쥐쥐 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jiji_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Juneechae_Regular'; /* 온글잎 쥬늬체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Juneechae_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JU_D_Regular'; /* 온글잎 쥬디 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JU_D_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_juno0306_Regular'; /* 온글잎 쥰오 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_juno0306_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_earth_Regular'; /* 온글잎 지구를지키자 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_earth_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jiguji_Regular'; /* 온글잎 지구지체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jiguji_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Kja1110_Regular'; /* 온글잎 지나 손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Kja1110_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jinabot_Regular'; /* 온글잎 지나봇 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jinabot_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JINNYPAD_Regular'; /* 온글잎 지니패드체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JINNYPAD_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JinnyP1_Regular'; /* 온글잎 지니피손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JinnyP1_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JinnyPtoon_Regular'; /* 온글잎 지니피육아툰 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JinnyPtoon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Lee_seunghoon_Regular'; /* 온글잎 지니후니 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Lee_seunghoon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_grungtype_Regular'; /* 온글잎 지렁체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_grungtype_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Fontbymin_Regular'; /* 온글잎 지민손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Fontbymin_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jiming23_Regular'; /* 온글잎 지밍체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jiming23_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jisunny_font_Regular'; /* 온글잎 지서니폰트 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jisunny_font_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JS_May_Regular'; /* 온글잎 지수 오월체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JS_May_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jia_Regular'; /* 온글잎 지아체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jia_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jyddobak_Regular'; /* 온글잎 지연또박 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jyddobak_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Estrella_Regular'; /* 온글잎 지연체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Estrella_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_ziorv_Regular'; /* 온글잎 지오르브 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_ziorv_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jiojio_Regular'; /* 온글잎 지오지오 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jiojio_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_GEO_Regular'; /* 온글잎 지오체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_GEO_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jiyong_Regular'; /* 온글잎 지용체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jiyong_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JIURANG_Regular'; /* 온글잎 지우랑 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JIURANG_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jiwoosona_Regular'; /* 온글잎 지우쏘낭 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jiwoosona_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_supdraw_Regular'; /* 온글잎 지원그림체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_supdraw_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JiwonT_Regular'; /* 온글잎 지원쌤손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JiwonT_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JiyoonABC_Regular'; /* 온글잎 지유니글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JiyoonABC_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jiyunidaaa_Regular'; /* 온글잎 지유니다 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jiyunidaaa_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Like_a_Jiyu_Regular'; /* 온글잎 지유처럼 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Like_a_Jiyu_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_yulfont_Regular'; /* 온글잎 지율폰트 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_yulfont_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jieunsleep_font_Regular'; /* 온글잎 지은낮잠체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jieunsleep_font_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JIEUNI_Regular'; /* 온글잎 지은이는이지은이 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JIEUNI_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_J_Teacher_Regular'; /* 온글잎 지은티체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_J_Teacher_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Fontbyjichang_Regular'; /* 온글잎 지창이글씨체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Fontbyjichang_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jihae_Font_Regular'; /* 온글잎 지해손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jihae_Font_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jihyun0_Regular'; /* 온글잎 지현 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jihyun0_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_octoberjihyeon_Regular'; /* 온글잎 지현시월 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_octoberjihyeon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JihyeonSummer_Regular'; /* 온글잎 지현여름체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JihyeonSummer_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jihyeon_Regular'; /* 온글잎 지현체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jihyeon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JihyunTV_Regular'; /* 온글잎 지현티비 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JihyunTV_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_zihi_Regular'; /* 온글잎 지히 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_zihi_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jin_be_hectic_Regular'; /* 온글잎 진 정신없어 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jin_be_hectic_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_sJin_Regular'; /* 온글잎 진 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_sJin_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JinKyoungOk_Regular'; /* 온글잎 진경옥체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JinKyoungOk_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jinthree_Regular'; /* 온글잎 진슈리체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jinthree_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JINSEUL2023_Regular'; /* 온글잎 진슬2023체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JINSEUL2023_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jinni_font_Regular'; /* 온글잎 진이꼴 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jinni_font_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jinjinbasic_Regular'; /* 온글잎 진진기본체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jinjinbasic_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Nyangkerbell_Regular'; /* 온글잎 진형체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Nyangkerbell_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_puberty_Regular'; /* 온글잎 질풍노도의 시기 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_puberty_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jimnifont22_Regular'; /* 온글잎 짐니폰트22 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jimnifont22_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jeemsletters_Regular'; /* 온글잎 짐미체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jeemsletters_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_HouseRabbit_Regular'; /* 온글잎 집토끼체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_HouseRabbit_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jingneegeulssi_Regular'; /* 온글잎 징니글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jingneegeulssi_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jjagu_Regular'; /* 온글잎 짜구체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jjagu_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_zzarong_Regular'; /* 온글잎 짜롱체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_zzarong_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Chabo_Regular'; /* 온글잎 짜보 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Chabo_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Zhanguri_Regular'; /* 온글잎 짱구리체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Zhanguri_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Zzangdol1_Regular'; /* 온글잎 짱돌단상체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Zzangdol1_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JJE1001_Regular'; /* 온글잎 째니1001 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JJE1001_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jammy_Regular'; /* 온글잎 째미 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jammy_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jaehee_Regular'; /* 온글잎 째히체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jaehee_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Tpdms_Regular'; /* 온글잎 쩐세바리 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Tpdms_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jjungs01_Regular'; /* 온글잎 쩡이01 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jjungs01_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_zzeoyoun_Regular'; /* 온글잎 쪄연체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_zzeoyoun_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jjoccomyuni_Regular'; /* 온글잎 쪼꼼유니 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jjoccomyuni_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jjorongfather_Regular'; /* 온글잎 쪼롱아부지 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jjorongfather_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_cunae_Regular'; /* 온글잎 쪼매난 잡화점 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_cunae_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jjomidrawer_Regular'; /* 온글잎 쪼미의서랍속 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jjomidrawer_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JsqnamepenF_Regular'; /* 온글잎 쫑네임펜 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JsqnamepenF_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Chu22_Regular'; /* 온글잎 쭈22 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Chu22_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JJUGONGOFFICIAL_Regular'; /* 온글잎 쭈공오피셜체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JJUGONGOFFICIAL_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JJUGONG_Regular'; /* 온글잎 쭈공체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JJUGONG_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Jiuya_teacher_Regular'; /* 온글잎 쭈야 선생님체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Jiuya_teacher_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_JJUYA_Regular'; /* 온글잎 쭈야체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_JJUYA_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jjoo1_Regular'; /* 온글잎 쭈원체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jjoo1_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Owgnylph_ZZoom_Regular'; /* 온글잎 쭘 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Owgnylph_ZZoom_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Zuri97_Regular'; /* 온글잎 쮸리손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Zuri97_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_jjigi_Regular'; /* 온글잎 찌기 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_jjigi_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_zzini_Regular'; /* 온글잎 찌니찐 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_zzini_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_HyunJJini_Regular'; /* 온글잎 찌니체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_HyunJJini_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_zzimctoon_Regular'; /* 온글잎 찌맥툰체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_zzimctoon_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_Sweet_jelly_Regular'; /* 온글잎 찐양갱체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_Sweet_jelly_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_LovelyLJ_Regular'; /* 온글잎 찐체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_LovelyLJ_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_babybrierstore_Regular'; /* 온글잎 찔레나무상점 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/BASIC2/Ownglyph_babybrierstore_Regular.woff2') format('woff2');
+}
+
