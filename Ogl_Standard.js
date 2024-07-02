@@ -1,12 +1,12 @@
     function redirectToLink(linkType) {
       var baseUrl = 'https://github.com/Wheelman-v2/Ownglyph/raw/main';
       var specificPaths = {
-        '낼나_예샘체': 'STANDARD/낼나_예샘체.zip',
-        '온글잎_23송정여중수민체': 'STANDARD/온글잎_23송정여중수민체.zip',
-        '온글잎_30썸띵갤': 'STANDARD/온글잎_30썸띵갤.zip',
-        '온글잎_2022년의_예솔': 'STANDARD/온글잎_2022년의_예솔.zip',
-        '온글잎_2023샛별체': 'STANDARD/온글잎_2023샛별체.zip',
-        '온글잎_2023효성체': 'STANDARD/온글잎_2023효성체.zip',
+        '낼나_예샘체': 'STANDARD/Files/낼나_예샘체.zip',
+        '온글잎_23송정여중수민체': 'STANDARD/Files/온글잎_23송정여중수민체.zip',
+        '온글잎_30썸띵갤': 'STANDARD/Files/온글잎_30썸띵갤.zip',
+        '온글잎_2022년의_예솔': 'STANDARD/Files/온글잎_2022년의_예솔.zip',
+        '온글잎_2023샛별체': 'STANDARD/Files/온글잎_2023샛별체.zip',
+        '온글잎_2023효성체': 'STANDARD/Files/온글잎_2023효성체.zip',
         '온글잎_512': 'STANDARD/온글잎_512.zip',
         '온글잎_90민선': 'STANDARD/온글잎_90민선.zip',
         '온글잎_99': 'STANDARD/온글잎_99.zip',
