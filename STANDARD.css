@@ -2463,3 +2463,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/STANDARD/Ownglyph_Hymm_Style_Regular.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Ownglyph_BERRY_RW_Regular'; /* 온글잎 베리려원 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Ownglyph/STANDARD/Ownglyph_BERRY_RW_Regular.woff2') format('woff2');
+}
