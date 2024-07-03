@@ -494,9 +494,7 @@
         '온글잎_희재천재체': 'STANDARD/온글잎_희재천재체.zip',
         '온글잎_희준체': 'STANDARD/온글잎_희준체.zip',
         '온글잎_힘체': 'STANDARD/온글잎_힘체.zip',
-        '온글잎_베리려원': 'STANDARD/온글잎_베리려원.zip',
-        // 'font2': 'AnotherFolder/another_font.zip',
-        // 필요에 따라 링크 추가
+        '온글잎_베리려원': 'STANDARD/온글잎_베리려원.zip'
       };
 
       var specificPath = specificPaths[linkType];
