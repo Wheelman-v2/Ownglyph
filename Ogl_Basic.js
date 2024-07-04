@@ -1,4 +1,6 @@
-    function redirectToLink(linkType) {
+    var Basic = Basic || {};
+
+    Basic.redirectToLink = function(linkType) {
       var baseUrl = 'https://github.com/Wheelman-v2/Ownglyph/raw/main';
       var specificPaths = {
         'OG_르네상스_비밀': 'BASIC1/Files/OG_르네상스_비밀.zip',
@@ -2005,4 +2007,4 @@
       } else {
         console.error('잘못된 링크 유형:', linkType);
       }
-    }
+    };
